@@ -1,0 +1,2 @@
+deb [arch=amd64] https://download.docker.com/linux/debian stretch stable
+deb https://deb.nodesource.com/node_10.x stretch main
